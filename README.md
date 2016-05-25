@@ -26,7 +26,7 @@
 
 Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
 
-**You may work on this project individually or in pairs.** See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.
+**You may work on this project individually or in pairs.** See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.  _Working in pairs will require explicit permission and must be justified._
 
 ---
 
@@ -92,6 +92,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 * Detail each person's responsibilities and features they will own.
 * Describe your plan for workflow and communication.
 * Demonstrate that each person will be challenged to contribute excellent work.
+* Obtain instructor permission for the pair.
 
 ### Completed Project Deliverables
 
