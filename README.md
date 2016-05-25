@@ -145,9 +145,9 @@ Project 3 presentations will start at **10:00 AM** on **Friday, June 3rd, 2016**
 
 ## Instructor Groups
 
-###### Who will be my assigned instructor / DIR for this project?
+###### Who will be my assigned instructor for this project?
 
-You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
+You'll meet with your assigned instructor daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
 
 #### Brianna
 
