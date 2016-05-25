@@ -151,25 +151,28 @@ You'll meet with your assigned instructor daily to guide you throughout the proj
 
 #### Brianna
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Doug Funnie
+* Porkchop
+* Mosquito Valentine
+* Patti Mayonnaise
+* Beebe Bluff
 
 
 #### Cory
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Monterey Jack
+* Chip
+* Zipper
+* Dale
+* Gadget Hackwrench
 
 #### Travis
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Yakko
+* Wakko
+* Dot
+* Ralph
+* Thaddeus Plotz
 
 
 ---
