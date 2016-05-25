@@ -37,7 +37,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 * **Discover or invent an idea**, preferably one with some group of users that would jump at the chance to really use your product.
 * **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
 * **Pitch your idea** to your classmates and instructors, and incorporate their feedback.
-* **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
+* **Make productive use of your time**, and balance your efforts to make a complete, impressive-looking project.
 * **Focus on writing solid, real-world code** that is well-documented and DRY.
 
 ---
@@ -65,9 +65,9 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 * **Incorporate an external API** to add data and functionality to your application.
 * **Use a data visualization library** to help users understand your core data.
-* **Implement third-party log in** to allow users to access data from other services.
+* **Implement third-party login** to allow users to access data from other services.
 * **Build something you can really launch**, and recruit an actual user-base.
-* **Test** critical components of your code to ensure that it works.
+* **Test** critical components of your code to ensure that it works and to make any future modifications more efficient.
 * **Research web accessibility** (e.g., for blind users), and apply accessibility principles to your app.
 
 ---
@@ -115,7 +115,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **Thursday, May 26th, 2016 12:30 PM PST** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Thursday, May 26th, 2016 12:30 PM PST** - [Project planning deliverables](#project-planning-deliverables) and approvals due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
 * **Friday, June 3rd, 2016, 9:59 AM PST** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
@@ -126,7 +126,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 ###### How do I turn in the project?
 
 * As you make code changes, **frequently commit and push to GitHub**.
-* You will be required to submit the GitHub URL and the URL to the live site - watch slack for details.
+* You will be required to submit the GitHub URL and the URL to the live site - watch slack for submission details.
 
 ---
 
