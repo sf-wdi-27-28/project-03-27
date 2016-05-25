@@ -156,7 +156,7 @@ You'll meet with your assigned instructor daily to guide you throughout the proj
 * Mosquito Valentine -> Joanne
 * Patti Mayonnaise -> Anna
 * Beebe Bluff -> Nathan
-* Eric
+* Ren -> Eric
 
 
 #### Cory
@@ -166,8 +166,8 @@ You'll meet with your assigned instructor daily to guide you throughout the proj
 * Zipper -> Phil
 * Dale -> Jackie
 * Gadget Hackwrench -> Adam
-* Justin
-* Ilter
+* Darkwing Duck -> Justin
+* Scrappy -> Ilter
 
 #### Travis
 
@@ -176,8 +176,8 @@ You'll meet with your assigned instructor daily to guide you throughout the proj
 * Dot -> Ayush
 * Ralph -> Bryan
 * Thaddeus Plotz -> Sarah
-* Herman
-* Marcelo
+* Stimpy -> Herman
+* Shaggy -> Marcelo
 
 ---
 
