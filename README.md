@@ -151,46 +151,31 @@ You'll meet with your assigned instructor daily to guide you throughout the proj
 
 #### Brianna
 
-* Doug Funnie
-* Porkchop
-* Mosquito Valentine
-* Patti Mayonnaise
-* Beebe Bluff
-* John
-* Arthur
-* Joanne
-* Anna
-* Nathan
+* Doug Funnie -> John
+* Porkchop -> Arthur
+* Mosquito Valentine -> Joanne
+* Patti Mayonnaise -> Anna
+* Beebe Bluff -> Nathan
 * Eric
 
 
 #### Cory
 
-* Monterey Jack
-* Chip
-* Zipper
-* Dale
-* Gadget Hackwrench
-* Andrea
-* Rene
-* Phil
-* Jackie
-* Adam
+* Monterey Jack -> Andrea
+* Chip -> Rene
+* Zipper -> Phil
+* Dale -> Jackie
+* Gadget Hackwrench -> Adam
 * Justin
 * Ilter
 
 #### Travis
 
-* Yakko
-* Wakko
-* Dot
-* Ralph
-* Thaddeus Plotz
-* Jonathan
-* Paul
-* Ayush
-* Bryan
-* Sarah
+* Yakko -> Jonathan
+* Wakko -> Paul
+* Dot -> Ayush
+* Ralph -> Bryan
+* Thaddeus Plotz -> Sarah
 * Herman
 * Marcelo
 
