@@ -154,9 +154,9 @@ You'll meet with your assigned instructor daily to guide you throughout the proj
 * Doug Funnie -> John
 * Porkchop -> Arthur
 * Mosquito Valentine -> Joanne
-* Patti Mayonnaise -> Anna
 * Beebe Bluff -> Nathan
 * Ren -> Eric
+* Dot -> Ayush
 
 
 #### Cory
@@ -173,11 +173,11 @@ You'll meet with your assigned instructor daily to guide you throughout the proj
 
 * Yakko -> Jonathan
 * Wakko -> Paul
-* Dot -> Ayush
 * Ralph -> Bryan
 * Thaddeus Plotz -> Sarah
 * Stimpy -> Herman
 * Shaggy -> Marcelo
+* Patti Mayonnaise -> Anna
 
 ---
 
