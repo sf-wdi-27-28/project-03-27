@@ -12,7 +12,7 @@
 * **[Deadlines](#deadlines):** When is the project due?
 * **[Submission](#submission):** How do I turn in the project?
 * **[Presentation Guidelines](#presentation-guidelines):** What should I cover during my presentation?
-* **[Project Feedback](#project-feedback):** How will I get feedback from instructors?
+* **[Project Feedback](#project-feedback):** How will I get feedback?
 
 ---
 
