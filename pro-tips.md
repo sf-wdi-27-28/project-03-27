@@ -6,7 +6,7 @@
 * **Read the docs** for whatever technologies / frameworks / APIs you use.
 * **Write DRY code** and **build RESTful APIs**.
 * **Be consistent with your code style.**
-* **Commit early, and commit often.** Don’t be afraid to break something, because you can always go back in time to a previous version. **Work on feature branches to minimize risk.**
+* **Commit early, and commit often.** Don’t be afraid to break something because you can always use git to "go back in time" to a previous version. **Work on feature branches to minimize risk.**
 * **Keep user stories small and well-defined**, and remember – user stories say what a user needs from your app, not what development tasks you have to tackle.
 * **Write well-formatted and readable code.** Are you indenting consistently? Can you find the start and end of every `<div>`, curly brace, etc.?
 * **Comment your code.** Will another developer understand what's going on in each block or function? Even if it's obvious to you, explaining the what and why means someone else can pick it up and get it.
