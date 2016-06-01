@@ -183,6 +183,6 @@ You'll meet with your assigned instructor daily to guide you throughout the proj
 
 ## Project Feedback
 
-###### How will I get feedback from instructors?
+###### How will I get feedback?
 
-See the [feedback doc](feedback.md) for details.
+You will give and receive peer feedback for this project. 
